@@ -9,4 +9,3 @@ This website holds all of my repositories with websites
 # To add
 A few repositories are not ready to be published yet. In particular:
 * A report on a novel Monte Carlo method for solving the Laplace equation
-* My laboratory work for a Data Science course
